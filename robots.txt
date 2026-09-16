@@ -1,0 +1,88 @@
+User-agent: *
+Allow: /
+Disallow: /play-cta.js
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Sogou
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+Allow: /data/
+Allow: /data/search-tags.json
+Allow: /data/tags.json
+Allow: /sitemap.xml
+Allow: /llms.txt
+Allow: /widget.html
+Allow: /amp.html
+Allow: /index.html
+Allow: /favicon.ico
+Allow: /robots.txt
+Allow: /i/widget-og.png
+Allow: /i/widget-512.png
+Allow: /i/no-verification-casino-640.jpg
+Allow: /i/favicon-48.png
+Allow: /i/favicon-192.png
+Allow: /i/site.webmanifest
+
+Sitemap: https://noidcasino.github.io/sitemap.xml

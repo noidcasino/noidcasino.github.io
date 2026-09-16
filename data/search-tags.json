@@ -1,0 +1,1127 @@
+﻿{
+    "casino without verification":  [
+                     {
+                                            "slug":  "casino-without-verification",
+                                            "name":  "casino without verification",
+                         "nameEn":  "casino without verification"
+                     },
+                     {
+                                            "slug":  "no-verification",
+                                            "name":  "no verification",
+                                            "nameEn":  "no verification"
+                                        },
+                                        {
+                                            "slug":  "no-verify",
+                                            "name":  "no verify",
+                                            "nameEn":  "no verify"
+                                        },
+                                        {
+                                            "slug":  "no-verificatio",
+                                            "name":  "no verificatio",
+                                            "nameEn":  "no verificatio"
+                                        },
+                                        {
+                                            "slug":  "bez-verification",
+                                            "name":  "bez verification",
+                                            "nameEn":  "bez verification"
+                                        },
+                                        {
+                                            "slug":  "bez-verifikacii",
+                                            "name":  "bez verifikacii",
+                                            "nameEn":  "bez verifikacii"
+                                        },
+                                        {
+                                            "slug":  "bez-verificacii",
+                                            "name":  "bez verificacii",
+                                            "nameEn":  "bez verificacii"
+                                        },
+                                        {
+                                            "slug":  "bez-verki",
+                                            "name":  "bez verki",
+                                            "nameEn":  "bez verki"
+                                        },
+                                        {
+                                            "slug":  "kazik-bez-verki",
+                                            "name":  "kazik bez verki",
+                                            "nameEn":  "kazik bez verki"
+                                        },
+                                        {
+                                            "slug":  "kaz-bez-verki",
+                                            "name":  "kaz bez verki",
+                                            "nameEn":  "kaz bez verki"
+                                        },
+                                        {
+                                            "slug":  "kazino-bez-verki",
+                                            "name":  "kazino bez verki",
+                                            "nameEn":  "kazino bez verki"
+                                        },
+                                        {
+                                            "slug":  "net-verificacii",
+                                            "name":  "net verificacii",
+                                            "nameEn":  "net verificacii"
+                                        },
+                                        {
+                                            "slug":  "net-verifikacii",
+                                            "name":  "net verifikacii",
+                                            "nameEn":  "net verifikacii"
+                                        },
+                                        {
+                                            "slug":  "ne-trebuet-verifikacii",
+                                            "name":  "ne trebuet verifikacii",
+                                            "nameEn":  "ne trebuet verifikacii"
+                                        }
+                                    ],
+    "casino without documents":  [
+                                     {
+                                         "slug":  "casino-without-documents",
+                                         "name":  "casino without documents",
+                                         "nameEn":  "casino without documents"
+                                     },
+                                     {
+                                         "slug":  "no-doc",
+                                         "name":  "no doc",
+                                         "nameEn":  "no doc"
+                                     },
+                                     {
+                                         "slug":  "no-docs",
+                                         "name":  "no docs",
+                                         "nameEn":  "no docs"
+                                     },
+                                     {
+                                         "slug":  "no-document",
+                                         "name":  "no document",
+                                         "nameEn":  "no document"
+                                     },
+                                     {
+                                         "slug":  "no-documents",
+                                         "name":  "no documents",
+                                         "nameEn":  "no documents"
+                                     },
+                                     {
+                                         "slug":  "bez-dokumentov",
+                                         "name":  "bez dokumentov",
+                                         "nameEn":  "bez dokumentov"
+                                     },
+                                     {
+                                         "slug":  "bez-documentov",
+                                         "name":  "bez documentov",
+                                         "nameEn":  "bez documentov"
+                                     },
+                                     {
+                                         "slug":  "bez-dokov",
+                                         "name":  "bez dokov",
+                                         "nameEn":  "bez dokov"
+                                     },
+                                     {
+                                         "slug":  "bez-dockov",
+                                         "name":  "bez dockov",
+                                         "nameEn":  "bez dockov"
+                                     },
+                                     {
+                                         "slug":  "kaz-bez-dokov",
+                                         "name":  "kaz bez dokov",
+                                         "nameEn":  "kaz bez dokov"
+                                     },
+                                     {
+                                         "slug":  "kazik-bez-dokov",
+                                         "name":  "kazik bez dokov",
+                                         "nameEn":  "kazik bez dokov"
+                                     },
+                                     {
+                                         "slug":  "ne-nuzni-documenty",
+                                         "name":  "ne nuzni documenty",
+                                         "nameEn":  "ne nuzni documenty"
+                                     },
+                                     {
+                                         "slug":  "ne-nuzhny-dokumenty",
+                                         "name":  "ne nuzhny dokumenty",
+                                         "nameEn":  "ne nuzhny dokumenty"
+                                     },
+                                     {
+                                         "slug":  "ne-trebuet-documenty",
+                                         "name":  "ne trebuet documenty",
+                                         "nameEn":  "ne trebuet documenty"
+                                     },
+                                     {
+                                         "slug":  "ne-trebuet-dokumenty",
+                                         "name":  "ne trebuet dokumenty",
+                                         "nameEn":  "ne trebuet dokumenty"
+                                     }
+                                 ],
+    "casino without identification":  [
+                                          {
+                                              "slug":  "casino-without-identification",
+                                              "name":  "casino without identification",
+                                              "nameEn":  "casino without identification"
+                                          },
+                                          {
+                                              "slug":  "no-identification",
+                                              "name":  "no identification",
+                                              "nameEn":  "no identification"
+                                          },
+                                          {
+                                              "slug":  "no-indentification",
+                                              "name":  "no indentification",
+                                              "nameEn":  "no indentification"
+                                          },
+                                          {
+                                              "slug":  "no-id",
+                                              "name":  "no id",
+                                              "nameEn":  "no id"
+                                          },
+                                          {
+                                              "slug":  "bez-identifikacii",
+                                              "name":  "bez identifikacii",
+                                              "nameEn":  "bez identifikacii"
+                                          },
+                                          {
+                                              "slug":  "bez-identification",
+                                              "name":  "bez identification",
+                                              "nameEn":  "bez identification"
+                                          }
+                                      ],
+    "casino without identity check":  [
+                                          {
+                                              "slug":  "casino-without-identity-check",
+                                              "name":  "casino without identity check",
+                                              "nameEn":  "casino without identity check"
+                                          },
+                                          {
+                                              "slug":  "no-identity-check",
+                                              "name":  "no identity check",
+                                              "nameEn":  "no identity check"
+                                          },
+                                          {
+                                              "slug":  "bez-proverki-lichnosti",
+                                              "name":  "bez proverki lichnosti",
+                                              "nameEn":  "bez proverki lichnosti"
+                                          },
+                                          {
+                                              "slug":  "bez-proverki",
+                                              "name":  "bez proverki",
+                                              "nameEn":  "bez proverki"
+                                          }
+                                      ],
+    "casino without KYC":  [
+                               {
+                                   "slug":  "casino-without-kyc",
+                                   "name":  "casino without KYC",
+                                   "nameEn":  "casino without KYC"
+                               },
+                               {
+                                   "slug":  "no-kyc",
+                                   "name":  "no kyc",
+                                   "nameEn":  "no kyc"
+                               },
+                               {
+                                   "slug":  "nokyc",
+                                   "name":  "nokyc",
+                                   "nameEn":  "nokyc"
+                               },
+                               {
+                                   "slug":  "bez-kyc",
+                                   "name":  "bez kyc",
+                                   "nameEn":  "bez kyc"
+                               },
+                               {
+                                   "slug":  "kyc-free",
+                                   "name":  "kyc free",
+                                   "nameEn":  "kyc free"
+                               }
+                           ],
+    "casino without passport":  [
+                                    {
+                                        "slug":  "casino-without-passport",
+                                        "name":  "casino without passport",
+                                        "nameEn":  "casino without passport"
+                                    },
+                                    {
+                                        "slug":  "no-passport",
+                                        "name":  "no passport",
+                                        "nameEn":  "no passport"
+                                    },
+                                    {
+                                        "slug":  "bez-pasporta",
+                                        "name":  "bez pasporta",
+                                        "nameEn":  "bez pasporta"
+                                    },
+                                    {
+                                        "slug":  "bez-passport",
+                                        "name":  "bez passport",
+                                        "nameEn":  "bez passport"
+                                    },
+                                    {
+                                        "slug":  "kaz-bez-pasporta",
+                                        "name":  "kaz bez pasporta",
+                                        "nameEn":  "kaz bez pasporta"
+                                    },
+                                    {
+                                        "slug":  "kazik-bez-pasporta",
+                                        "name":  "kazik bez pasporta",
+                                        "nameEn":  "kazik bez pasporta"
+                                    }
+                                ],
+    "casino without identity confirmation":  [
+                                                 {
+                                                     "slug":  "casino-without-identity-confirmation",
+                                                     "name":  "casino without identity confirmation",
+                                                     "nameEn":  "casino without identity confirmation"
+                                                 },
+                                                 {
+                                                     "slug":  "no-identity-confirmation",
+                                                     "name":  "no identity confirmation",
+                                                     "nameEn":  "no identity confirmation"
+                                                 },
+                                                 {
+                                                     "slug":  "bez-podtverzhdeniya-lichnosti",
+                                                     "name":  "bez podtverzhdeniya lichnosti",
+                                                     "nameEn":  "bez podtverzhdeniya lichnosti"
+                                                 }
+                                             ],
+    "casino without passport selfie":  [
+                                           {
+                                               "slug":  "casino-without-passport-selfie",
+                                               "name":  "casino without passport selfie",
+                                               "nameEn":  "casino without passport selfie"
+                                           },
+                                           {
+                                               "slug":  "no-selfie",
+                                               "name":  "no selfie",
+                                               "nameEn":  "no selfie"
+                                           },
+                                           {
+                                               "slug":  "no-selfy",
+                                               "name":  "no selfy",
+                                               "nameEn":  "no selfy"
+                                           },
+                                           {
+                                               "slug":  "bez-selfie",
+                                               "name":  "bez selfie",
+                                               "nameEn":  "bez selfie"
+                                           },
+                                           {
+                                               "slug":  "bez-selfy",
+                                               "name":  "bez selfy",
+                                               "nameEn":  "bez selfy"
+                                           },
+                                           {
+                                               "slug":  "bez-selfie-s-pasportom",
+                                               "name":  "bez selfie s pasportom",
+                                               "nameEn":  "bez selfie s pasportom"
+                                           }
+                                       ],
+    "casino without personal data":  [
+                                         {
+                                             "slug":  "casino-without-personal-data",
+                                             "name":  "casino without personal data",
+                                             "nameEn":  "casino without personal data"
+                                         },
+                                         {
+                                             "slug":  "no-personal-data",
+                                             "name":  "no personal data",
+                                             "nameEn":  "no personal data"
+                                         },
+                                         {
+                                             "slug":  "bez-personalnyh-dannyh",
+                                             "name":  "bez personalnyh dannyh",
+                                             "nameEn":  "bez personalnyh dannyh"
+                                         }
+                                     ],
+    "withdrawal without verification":  [
+                                            {
+                                                "slug":  "withdrawal-without-verification",
+                                                "name":  "withdrawal without verification",
+                                                "nameEn":  "withdrawal without verification"
+                                            },
+                                            {
+                                                "slug":  "vyvod-bez-verifikacii",
+                                                "name":  "vyvod bez verifikacii",
+                                                "nameEn":  "vyvod bez verifikacii"
+                                            },
+                                            {
+                                                "slug":  "vyvod-bez-verification",
+                                                "name":  "vyvod bez verification",
+                                                "nameEn":  "vyvod bez verification"
+                                            },
+                                            {
+                                                "slug":  "vyvod-bez-verki",
+                                                "name":  "vyvod bez verki",
+                                                "nameEn":  "vyvod bez verki"
+                                            },
+                                            {
+                                                "slug":  "no-verify-withdrawal",
+                                                "name":  "no verify withdrawal",
+                                                "nameEn":  "no verify withdrawal"
+                                            }
+                                        ],
+    "withdrawal without documents":  [
+                                         {
+                                             "slug":  "withdrawal-without-documents",
+                                             "name":  "withdrawal without documents",
+                                             "nameEn":  "withdrawal without documents"
+                                         },
+                                         {
+                                             "slug":  "vyvod-bez-dokumentov",
+                                             "name":  "vyvod bez dokumentov",
+                                             "nameEn":  "vyvod bez dokumentov"
+                                         },
+                                         {
+                                             "slug":  "vyvod-bez-dokov",
+                                             "name":  "vyvod bez dokov",
+                                             "nameEn":  "vyvod bez dokov"
+                                         },
+                                         {
+                                             "slug":  "no-doc-withdrawal",
+                                             "name":  "no doc withdrawal",
+                                             "nameEn":  "no doc withdrawal"
+                                         }
+                                     ],
+    "withdrawal without identification":  [
+                                              {
+                                                  "slug":  "withdrawal-without-identification",
+                                                  "name":  "withdrawal without identification",
+                                                  "nameEn":  "withdrawal without identification"
+                                              },
+                                              {
+                                                  "slug":  "vyvod-bez-identifikacii",
+                                                  "name":  "vyvod bez identifikacii",
+                                                  "nameEn":  "vyvod bez identifikacii"
+                                              }
+                                          ],
+    "withdrawal without identity check":  [
+                                              {
+                                                  "slug":  "withdrawal-without-identity-check",
+                                                  "name":  "withdrawal without identity check",
+                                                  "nameEn":  "withdrawal without identity check"
+                                              },
+                                              {
+                                                  "slug":  "vyvod-bez-proverki-lichnosti",
+                                                  "name":  "vyvod bez proverki lichnosti",
+                                                  "nameEn":  "vyvod bez proverki lichnosti"
+                                              }
+                                          ],
+    "withdrawal without KYC":  [
+                                   {
+                                       "slug":  "withdrawal-without-kyc",
+                                       "name":  "withdrawal without KYC",
+                                       "nameEn":  "withdrawal without KYC"
+                                   },
+                                   {
+                                       "slug":  "vyvod-bez-kyc",
+                                       "name":  "vyvod bez kyc",
+                                       "nameEn":  "vyvod bez kyc"
+                                   }
+                               ],
+    "withdrawal without passport":  [
+                                        {
+                                            "slug":  "withdrawal-without-passport",
+                                            "name":  "withdrawal without passport",
+                                            "nameEn":  "withdrawal without passport"
+                                        },
+                                        {
+                                            "slug":  "vyvod-bez-pasporta",
+                                            "name":  "vyvod bez pasporta",
+                                            "nameEn":  "vyvod bez pasporta"
+                                        }
+                                    ],
+    "cashout without verification":  [
+                                         {
+                                             "slug":  "cashout-without-verification",
+                                             "name":  "cashout without verification",
+                                             "nameEn":  "cashout without verification"
+                                         },
+                                         {
+                                             "slug":  "snyatie-bez-verifikacii",
+                                             "name":  "snyatie bez verifikacii",
+                                             "nameEn":  "snyatie bez verifikacii"
+                                         }
+                                     ],
+    "cashout without documents":  [
+                                      {
+                                          "slug":  "cashout-without-documents",
+                                          "name":  "cashout without documents",
+                                          "nameEn":  "cashout without documents"
+                                      },
+                                      {
+                                          "slug":  "snyatie-bez-dokumentov",
+                                          "name":  "snyatie bez dokumentov",
+                                          "nameEn":  "snyatie bez dokumentov"
+                                      }
+                                  ],
+    "funds withdrawal without identity confirmation":  [
+                                                           {
+                                                               "slug":  "funds-withdrawal-without-identity-confirmation",
+                                                               "name":  "funds withdrawal without identity confirmation",
+                                                               "nameEn":  "funds withdrawal without identity confirmation"
+                                                           },
+                                                           {
+                                                               "slug":  "vyvod-sredstv-bez-podtverzhdeniya-lichnosti",
+                                                               "name":  "vyvod sredstv bez podtverzhdeniya lichnosti",
+                                                               "nameEn":  "vyvod sredstv bez podtverzhdeniya lichnosti"
+                                                           }
+                                                       ],
+    "instant withdrawal without verification":  [
+                                                    {
+                                                        "slug":  "instant-withdrawal-without-verification",
+                                                        "name":  "instant withdrawal without verification",
+                                                        "nameEn":  "instant withdrawal without verification"
+                                                    },
+                                                    {
+                                                        "slug":  "momentalnyj-vyvod-bez-verifikacii",
+                                                        "name":  "momentalnyj vyvod bez verifikacii",
+                                                        "nameEn":  "momentalnyj vyvod bez verifikacii"
+                                                    }
+                                                ],
+    "fast withdrawal without documents":  [
+                                              {
+                                                  "slug":  "fast-withdrawal-without-documents",
+                                                  "name":  "fast withdrawal without documents",
+                                                  "nameEn":  "fast withdrawal without documents"
+                                              },
+                                              {
+                                                  "slug":  "bystryj-vyvod-bez-dokumentov",
+                                                  "name":  "bystryj vyvod bez dokumentov",
+                                                  "nameEn":  "bystryj vyvod bez dokumentov"
+                                              }
+                                          ],
+    "automatic withdrawal without verification":  [
+                                                      {
+                                                          "slug":  "automatic-withdrawal-without-verification",
+                                                          "name":  "automatic withdrawal without verification",
+                                                          "nameEn":  "automatic withdrawal without verification"
+                                                      },
+                                                      {
+                                                          "slug":  "avtomaticheskij-vyvod-bez-verifikacii",
+                                                          "name":  "avtomaticheskij vyvod bez verifikacii",
+                                                          "nameEn":  "avtomaticheskij vyvod bez verifikacii"
+                                                      }
+                                                  ],
+    "casino that does not require documents on withdrawal":  [
+                                                                 {
+                                                                     "slug":  "casino-no-documents-on-withdrawal",
+                                                                     "name":  "casino that does not require documents on withdrawal",
+                                                                     "nameEn":  "casino that does not require documents on withdrawal"
+                                                                 },
+                                                                 {
+                                                                     "slug":  "kazino-gde-ne-trebuyut-dokumenty-pri-vyvode",
+                                                                     "name":  "kazino gde ne trebuyut dokumenty pri vyvode",
+                                                                     "nameEn":  "kazino gde ne trebuyut dokumenty pri vyvode"
+                                                                 }
+                                                             ],
+    "casino without verification with card withdrawal":  [
+                                                             {
+                                                                 "slug":  "casino-without-verification-card-withdrawal",
+                                                                 "name":  "casino without verification with card withdrawal",
+                                                                 "nameEn":  "casino without verification with card withdrawal"
+                                                             },
+                                                             {
+                                                                 "slug":  "kazino-bez-verifikacii-s-vyvodom-na-kartu",
+                                                                 "name":  "kazino bez verifikacii s vyvodom na kartu",
+                                                                 "nameEn":  "kazino bez verifikacii s vyvodom na kartu"
+                                                             }
+                                                         ],
+    "registration without documents":  [
+                                           {
+                                               "slug":  "registration-without-documents",
+                                               "name":  "registration without documents",
+                                               "nameEn":  "registration without documents"
+                                           },
+                                           {
+                                               "slug":  "registraciya-bez-dokumentov",
+                                               "name":  "registraciya bez dokumentov",
+                                               "nameEn":  "registraciya bez dokumentov"
+                                           }
+                                       ],
+    "registration without passport":  [
+                                          {
+                                              "slug":  "registration-without-passport",
+                                              "name":  "registration without passport",
+                                              "nameEn":  "registration without passport"
+                                          },
+                                          {
+                                              "slug":  "registraciya-bez-pasporta",
+                                              "name":  "registraciya bez pasporta",
+                                              "nameEn":  "registraciya bez pasporta"
+                                          }
+                                      ],
+    "registration without verification":  [
+                                              {
+                                                  "slug":  "registration-without-verification",
+                                                  "name":  "registration without verification",
+                                                  "nameEn":  "registration without verification"
+                                              },
+                                              {
+                                                  "slug":  "registraciya-bez-verifikacii",
+                                                  "name":  "registraciya bez verifikacii",
+                                                  "nameEn":  "registraciya bez verifikacii"
+                                              }
+                                          ],
+    "registration without identification":  [
+                                                {
+                                                    "slug":  "registration-without-identification",
+                                                    "name":  "registration without identification",
+                                                    "nameEn":  "registration without identification"
+                                                },
+                                                {
+                                                    "slug":  "registraciya-bez-identifikacii",
+                                                    "name":  "registraciya bez identifikacii",
+                                                    "nameEn":  "registraciya bez identifikacii"
+                                                }
+                                            ],
+    "login without documents":  [
+                                    {
+                                        "slug":  "login-without-documents",
+                                        "name":  "login without documents",
+                                        "nameEn":  "login without documents"
+                                    },
+                                    {
+                                        "slug":  "vhod-bez-dokumentov",
+                                        "name":  "vhod bez dokumentov",
+                                        "nameEn":  "vhod bez dokumentov"
+                                    }
+                                ],
+    "play without document registration":  [
+                                               {
+                                                   "slug":  "play-without-document-registration",
+                                                   "name":  "play without document registration",
+                                                   "nameEn":  "play without document registration"
+                                               },
+                                               {
+                                                   "slug":  "igra-bez-registracii-dokumentov",
+                                                   "name":  "igra bez registracii dokumentov",
+                                                   "nameEn":  "igra bez registracii dokumentov"
+                                               }
+                                           ],
+    "play without passport data":  [
+                                       {
+                                           "slug":  "play-without-passport-data",
+                                           "name":  "play without passport data",
+                                           "nameEn":  "play without passport data"
+                                       },
+                                       {
+                                           "slug":  "igra-bez-pasportnyh-dannyh",
+                                           "name":  "igra bez pasportnyh dannyh",
+                                           "nameEn":  "igra bez pasportnyh dannyh"
+                                       }
+                                   ],
+    "without address confirmation":  [
+                                         {
+                                             "slug":  "without-address-confirmation",
+                                             "name":  "without address confirmation",
+                                             "nameEn":  "without address confirmation"
+                                         },
+                                         {
+                                             "slug":  "bez-podtverzhdeniya-adresa",
+                                             "name":  "bez podtverzhdeniya adresa",
+                                             "nameEn":  "bez podtverzhdeniya adresa"
+                                         }
+                                     ],
+    "without phone confirmation":  [
+                                       {
+                                           "slug":  "without-phone-confirmation",
+                                           "name":  "without phone confirmation",
+                                           "nameEn":  "without phone confirmation"
+                                       },
+                                       {
+                                           "slug":  "bez-podtverzhdeniya-telefona",
+                                           "name":  "bez podtverzhdeniya telefona",
+                                           "nameEn":  "bez podtverzhdeniya telefona"
+                                       }
+                                   ],
+    "roulette without verification":  [
+                                          {
+                                              "slug":  "roulette-without-verification",
+                                              "name":  "roulette without verification",
+                                              "nameEn":  "roulette without verification"
+                                          },
+                                          {
+                                              "slug":  "ruletka-bez-verifikacii",
+                                              "name":  "ruletka bez verifikacii",
+                                              "nameEn":  "ruletka bez verifikacii"
+                                          }
+                                      ],
+    "blackjack without documents":  [
+                                        {
+                                            "slug":  "blackjack-without-documents",
+                                            "name":  "blackjack without documents",
+                                            "nameEn":  "blackjack without documents"
+                                        },
+                                        {
+                                            "slug":  "blekdzhek-bez-dokumentov",
+                                            "name":  "blekdzhek bez dokumentov",
+                                            "nameEn":  "blekdzhek bez dokumentov"
+                                        }
+                                    ],
+    "poker without verification":  [
+                                       {
+                                           "slug":  "poker-without-verification",
+                                           "name":  "poker without verification",
+                                           "nameEn":  "poker without verification"
+                                       },
+                                       {
+                                           "slug":  "poker-bez-verifikacii",
+                                           "name":  "poker bez verifikacii",
+                                           "nameEn":  "poker bez verifikacii"
+                                       }
+                                   ],
+    "live casino without documents":  [
+                                          {
+                                              "slug":  "live-casino-without-documents",
+                                              "name":  "live casino without documents",
+                                              "nameEn":  "live casino without documents"
+                                          },
+                                          {
+                                              "slug":  "lajv-kazino-bez-dokumentov",
+                                              "name":  "lajv kazino bez dokumentov",
+                                              "nameEn":  "lajv kazino bez dokumentov"
+                                          }
+                                      ],
+    "crash games without verification":  [
+                                             {
+                                                 "slug":  "crash-games-without-verification",
+                                                 "name":  "crash games without verification",
+                                                 "nameEn":  "crash games without verification"
+                                             },
+                                             {
+                                                 "slug":  "krash-igry-bez-verifikacii",
+                                                 "name":  "krash igry bez verifikacii",
+                                                 "nameEn":  "krash igry bez verifikacii"
+                                             }
+                                         ],
+    "play without verification":  [
+                                      {
+                                          "slug":  "play-without-verification",
+                                          "name":  "play without verification",
+                                          "nameEn":  "play without verification"
+                                      },
+                                      {
+                                          "slug":  "igrat-bez-verifikacii",
+                                          "name":  "igrat bez verifikacii",
+                                          "nameEn":  "igrat bez verifikacii"
+                                      }
+                                  ],
+    "fast registration without documents":  [
+                                                {
+                                                    "slug":  "fast-registration-without-documents",
+                                                    "name":  "fast registration without documents",
+                                                    "nameEn":  "fast registration without documents"
+                                                },
+                                                {
+                                                    "slug":  "bystraya-registraciya-bez-dokumentov",
+                                                    "name":  "bystraya registraciya bez dokumentov",
+                                                    "nameEn":  "bystraya registraciya bez dokumentov"
+                                                }
+                                            ],
+    "withdrawal in 5 minutes without documents":  [
+                                                      {
+                                                          "slug":  "withdrawal-in-5-minutes-without-documents",
+                                                          "name":  "withdrawal in 5 minutes without documents",
+                                                          "nameEn":  "withdrawal in 5 minutes without documents"
+                                                      },
+                                                      {
+                                                          "slug":  "vyvod-za-5-minut-bez-dokumentov",
+                                                          "name":  "vyvod za 5 minut bez dokumentov",
+                                                          "nameEn":  "vyvod za 5 minut bez dokumentov"
+                                                      }
+                                                  ],
+    "without waiting for verification":  [
+                                             {
+                                                 "slug":  "without-waiting-for-verification",
+                                                 "name":  "without waiting for verification",
+                                                 "nameEn":  "without waiting for verification"
+                                             },
+                                             {
+                                                 "slug":  "bez-ozhidaniya-verifikacii",
+                                                 "name":  "bez ozhidaniya verifikacii",
+                                                 "nameEn":  "bez ozhidaniya verifikacii"
+                                             }
+                                         ],
+    "instant payouts without KYC":  [
+                                        {
+                                            "slug":  "instant-payouts-without-kyc",
+                                            "name":  "instant payouts without KYC",
+                                            "nameEn":  "instant payouts without KYC"
+                                        },
+                                        {
+                                            "slug":  "momentalnye-vyplaty-bez-kyc",
+                                            "name":  "momentalnye vyplaty bez kyc",
+                                            "nameEn":  "momentalnye vyplaty bez kyc"
+                                        }
+                                    ],
+    "24/7 withdrawal without verification":  [
+                                                 {
+                                                     "slug":  "withdrawal-24-7-without-verification",
+                                                     "name":  "24/7 withdrawal without verification",
+                                                     "nameEn":  "24/7 withdrawal without verification"
+                                                 },
+                                                 {
+                                                     "slug":  "kruglosutochnyj-vyvod-bez-verifikacii",
+                                                     "name":  "kruglosutochnyj vyvod bez verifikacii",
+                                                     "nameEn":  "kruglosutochnyj vyvod bez verifikacii"
+                                                 }
+                                             ],
+    "casino without verification Russia":  [
+                                               {
+                                                   "slug":  "casino-without-verification-russia",
+                                                   "name":  "casino without verification Russia",
+                                                   "nameEn":  "casino without verification Russia"
+                                               },
+                                               {
+                                                   "slug":  "kazino-bez-verifikacii-rossiya",
+                                                   "name":  "kazino bez verifikacii rossiya",
+                                                   "nameEn":  "kazino bez verifikacii rossiya"
+                                               }
+                                           ],
+    "casino without documents CIS":  [
+                                         {
+                                             "slug":  "casino-without-documents-cis",
+                                             "name":  "casino without documents CIS",
+                                             "nameEn":  "casino without documents CIS"
+                                         },
+                                         {
+                                             "slug":  "kazino-bez-dokumentov-sng",
+                                             "name":  "kazino bez dokumentov sng",
+                                             "nameEn":  "kazino bez dokumentov sng"
+                                         }
+                                     ],
+    "casino without KYC Kazakhstan":  [
+                                          {
+                                              "slug":  "casino-without-kyc-kazakhstan",
+                                              "name":  "casino without KYC Kazakhstan",
+                                              "nameEn":  "casino without KYC Kazakhstan"
+                                          },
+                                          {
+                                              "slug":  "kazino-bez-kyc-kazakhstan",
+                                              "name":  "kazino bez kyc kazakhstan",
+                                              "nameEn":  "kazino bez kyc kazakhstan"
+                                          }
+                                      ],
+    "casino without verification Belarus":  [
+                                                {
+                                                    "slug":  "casino-without-verification-belarus",
+                                                    "name":  "casino without verification Belarus",
+                                                    "nameEn":  "casino without verification Belarus"
+                                                },
+                                                {
+                                                    "slug":  "kazino-bez-verifikacii-belarus",
+                                                    "name":  "kazino bez verifikacii belarus",
+                                                    "nameEn":  "kazino bez verifikacii belarus"
+                                                }
+                                            ],
+    "Russian-language casino without verification":  [
+                                                         {
+                                                             "slug":  "russian-language-casino-without-verification",
+                                                             "name":  "Russian-language casino without verification",
+                                                             "nameEn":  "Russian-language casino without verification"
+                                                         },
+                                                         {
+                                                             "slug":  "russkoyazychnoe-kazino-bez-verifikacii",
+                                                             "name":  "russkoyazychnoe kazino bez verifikacii",
+                                                             "nameEn":  "russkoyazychnoe kazino bez verifikacii"
+                                                         }
+                                                     ],
+    "casino without documents for Russians":  [
+                                                  {
+                                                      "slug":  "casino-without-documents-for-russians",
+                                                      "name":  "casino without documents for Russians",
+                                                      "nameEn":  "casino without documents for Russians"
+                                                  },
+                                                  {
+                                                      "slug":  "kazino-bez-dokumentov-dlya-russkih",
+                                                      "name":  "kazino bez dokumentov dlya russkih",
+                                                      "nameEn":  "kazino bez dokumentov dlya russkih"
+                                                  }
+                                              ],
+    "mobile casino without verification":  [
+                                               {
+                                                   "slug":  "mobile-casino-without-verification",
+                                                   "name":  "mobile casino without verification",
+                                                   "nameEn":  "mobile casino without verification"
+                                               },
+                                               {
+                                                   "slug":  "mobilnoe-kazino-bez-verifikacii",
+                                                   "name":  "mobilnoe kazino bez verifikacii",
+                                                   "nameEn":  "mobilnoe kazino bez verifikacii"
+                                               }
+                                           ],
+    "casino app without documents":  [
+                                         {
+                                             "slug":  "casino-app-without-documents",
+                                             "name":  "casino app without documents",
+                                             "nameEn":  "casino app without documents"
+                                         },
+                                         {
+                                             "slug":  "prilozhenie-kazino-bez-dokumentov",
+                                             "name":  "prilozhenie kazino bez dokumentov",
+                                             "nameEn":  "prilozhenie kazino bez dokumentov"
+                                         }
+                                     ],
+    "online casino without verification":  [
+                                               {
+                                                   "slug":  "online-casino-without-verification",
+                                                   "name":  "online casino without verification",
+                                                   "nameEn":  "online casino without verification"
+                                               },
+                                               {
+                                                   "slug":  "onlajn-kazino-bez-verifikacii",
+                                                   "name":  "onlajn kazino bez verifikacii",
+                                                   "nameEn":  "onlajn kazino bez verifikacii"
+                                               },
+                                               {
+                                                   "slug":  "online-kazino-bez-verki",
+                                                   "name":  "online kazino bez verki",
+                                                   "nameEn":  "online kazino bez verki"
+                                               }
+                                           ],
+    "casino without download and documents":  [
+                                                  {
+                                                      "slug":  "casino-without-download-and-documents",
+                                                      "name":  "casino without download and documents",
+                                                      "nameEn":  "casino without download and documents"
+                                                  },
+                                                  {
+                                                      "slug":  "kazino-bez-skachivaniya-i-dokumentov",
+                                                      "name":  "kazino bez skachivaniya i dokumentov",
+                                                      "nameEn":  "kazino bez skachivaniya i dokumentov"
+                                                  }
+                                              ],
+    "casino mirror without verification":  [
+                                               {
+                                                   "slug":  "casino-mirror-without-verification",
+                                                   "name":  "casino mirror without verification",
+                                                   "nameEn":  "casino mirror without verification"
+                                               },
+                                               {
+                                                   "slug":  "zerkalo-kazino-bez-verifikacii",
+                                                   "name":  "zerkalo kazino bez verifikacii",
+                                                   "nameEn":  "zerkalo kazino bez verifikacii"
+                                               }
+                                           ],
+    "working mirror without documents":  [
+                                             {
+                                                 "slug":  "working-mirror-without-documents",
+                                                 "name":  "working mirror without documents",
+                                                 "nameEn":  "working mirror without documents"
+                                             },
+                                             {
+                                                 "slug":  "rabochee-zerkalo-bez-dokumentov",
+                                                 "name":  "rabochee zerkalo bez dokumentov",
+                                                 "nameEn":  "rabochee zerkalo bez dokumentov"
+                                             }
+                                         ],
+    "legal casino without verification":  [
+                                              {
+                                                  "slug":  "legal-casino-without-verification",
+                                                  "name":  "legal casino without verification",
+                                                  "nameEn":  "legal casino without verification"
+                                              },
+                                              {
+                                                  "slug":  "legalnoe-kazino-bez-verifikacii",
+                                                  "name":  "legalnoe kazino bez verifikacii",
+                                                  "nameEn":  "legalnoe kazino bez verifikacii"
+                                              }
+                                          ],
+    "licensed casino without documents":  [
+                                              {
+                                                  "slug":  "licensed-casino-without-documents",
+                                                  "name":  "licensed casino without documents",
+                                                  "nameEn":  "licensed casino without documents"
+                                              },
+                                              {
+                                                  "slug":  "licenzionnoe-kazino-bez-dokumentov",
+                                                  "name":  "licenzionnoe kazino bez dokumentov",
+                                                  "nameEn":  "licenzionnoe kazino bez dokumentov"
+                                              }
+                                          ],
+    "honest casino without KYC":  [
+                                      {
+                                          "slug":  "honest-casino-without-kyc",
+                                          "name":  "honest casino without KYC",
+                                          "nameEn":  "honest casino without KYC"
+                                      },
+                                      {
+                                          "slug":  "chestnoe-kazino-bez-kyc",
+                                          "name":  "chestnoe kazino bez kyc",
+                                          "nameEn":  "chestnoe kazino bez kyc"
+                                      }
+                                  ],
+    "verified casino without verification":  [
+                                                 {
+                                                     "slug":  "verified-casino-without-verification",
+                                                     "name":  "verified casino without verification",
+                                                     "nameEn":  "verified casino without verification"
+                                                 },
+                                                 {
+                                                     "slug":  "proverennoe-kazino-bez-verifikacii",
+                                                     "name":  "proverennoe kazino bez verifikacii",
+                                                     "nameEn":  "proverennoe kazino bez verifikacii"
+                                                 }
+                                             ],
+    "reliable casino without documents":  [
+                                              {
+                                                  "slug":  "reliable-casino-without-documents",
+                                                  "name":  "reliable casino without documents",
+                                                  "nameEn":  "reliable casino without documents"
+                                              },
+                                              {
+                                                  "slug":  "nadezhnoe-kazino-bez-dokumentov",
+                                                  "name":  "nadezhnoe kazino bez dokumentov",
+                                                  "nameEn":  "nadezhnoe kazino bez dokumentov"
+                                              }
+                                          ],
+    "casino without verification rating":  [
+                                               {
+                                                   "slug":  "casino-without-verification-rating",
+                                                   "name":  "casino without verification rating",
+                                                   "nameEn":  "casino without verification rating"
+                                               },
+                                               {
+                                                   "slug":  "rejting-kazino-bez-verifikacii",
+                                                   "name":  "rejting kazino bez verifikacii",
+                                                   "nameEn":  "rejting kazino bez verifikacii"
+                                               }
+                                           ],
+    "top casinos without documents":  [
+                                          {
+                                              "slug":  "top-casinos-without-documents",
+                                              "name":  "top casinos without documents",
+                                              "nameEn":  "top casinos without documents"
+                                          },
+                                          {
+                                              "slug":  "top-kazino-bez-dokumentov",
+                                              "name":  "top kazino bez dokumentov",
+                                              "nameEn":  "top kazino bez dokumentov"
+                                          }
+                                      ],
+    "slots without passport registration":  [
+                                                {
+                                                    "slug":  "slots-without-passport-registration",
+                                                    "name":  "slots without passport registration",
+                                                    "nameEn":  "slots without passport registration"
+                                                },
+                                                {
+                                                    "slug":  "igrovye-avtomaty-bez-registracii-pasporta",
+                                                    "name":  "igrovye avtomaty bez registracii pasporta",
+                                                    "nameEn":  "igrovye avtomaty bez registracii pasporta"
+                                                }
+                                            ],
+    "online casino without identity confirmation":  [
+                                                        {
+                                                            "slug":  "online-casino-without-identity-confirmation",
+                                                            "name":  "online casino without identity confirmation",
+                                                            "nameEn":  "online casino without identity confirmation"
+                                                        },
+                                                        {
+                                                            "slug":  "onlajn-kazino-bez-podtverzhdeniya-lichnosti",
+                                                            "name":  "onlajn kazino bez podtverzhdeniya lichnosti",
+                                                            "nameEn":  "onlajn kazino bez podtverzhdeniya lichnosti"
+                                                        }
+                                                    ],
+    "casino that does not require passport selfie":  [
+                                                         {
+                                                             "slug":  "casino-that-does-not-require-passport-selfie",
+                                                             "name":  "casino that does not require passport selfie",
+                                                             "nameEn":  "casino that does not require passport selfie"
+                                                         },
+                                                         {
+                                                             "slug":  "kazino-kotoroe-ne-trebuet-selfie-s-pasportom",
+                                                             "name":  "kazino kotoroe ne trebuet selfie s pasportom",
+                                                             "nameEn":  "kazino kotoroe ne trebuet selfie s pasportom"
+                                                         }
+                                                     ],
+    "casino without residential address check":  [
+                                                     {
+                                                         "slug":  "casino-without-residential-address-check",
+                                                         "name":  "casino without residential address check",
+                                                         "nameEn":  "casino without residential address check"
+                                                     },
+                                                     {
+                                                         "slug":  "kazino-bez-proverki-adresa-prozhivaniya",
+                                                         "name":  "kazino bez proverki adresa prozhivaniya",
+                                                         "nameEn":  "kazino bez proverki adresa prozhivaniya"
+                                                     }
+                                                 ],
+    "casino without phone number confirmation":  [
+                                                     {
+                                                         "slug":  "casino-without-phone-number-confirmation",
+                                                         "name":  "casino without phone number confirmation",
+                                                         "nameEn":  "casino without phone number confirmation"
+                                                     },
+                                                     {
+                                                         "slug":  "kazino-bez-podtverzhdeniya-nomera-telefona",
+                                                         "name":  "kazino bez podtverzhdeniya nomera telefona",
+                                                         "nameEn":  "kazino bez podtverzhdeniya nomera telefona"
+                                                     }
+                                                 ],
+    "casino without verification on funds withdrawal":  [
+                                                            {
+                                                                "slug":  "casino-without-verification-on-withdrawal",
+                                                                "name":  "casino without verification on funds withdrawal",
+                                                                "nameEn":  "casino without verification on funds withdrawal"
+                                                            },
+                                                            {
+                                                                "slug":  "kazino-bez-verifikacii-pri-vyvode-sredstv",
+                                                                "name":  "kazino bez verifikacii pri vyvode sredstv",
+                                                                "nameEn":  "kazino bez verifikacii pri vyvode sredstv"
+                                                            }
+                                                        ],
+    "bookmaker without verification":  [
+                                           {
+                                               "slug":  "bookmaker-without-verification",
+                                               "name":  "bookmaker without verification",
+                                               "nameEn":  "bookmaker without verification"
+                                           },
+                                           {
+                                               "slug":  "bookmaker-no-verification",
+                                               "name":  "bookmaker without verification",
+                                               "nameEn":  "bookmaker without verification"
+                                           },
+                                           {
+                                               "slug":  "bukmeker-bez-verifikacii",
+                                               "name":  "bukmeker bez verifikacii",
+                                               "nameEn":  "bukmeker bez verifikacii"
+                                           },
+                                           {
+                                               "slug":  "bukmeker-bez-verki",
+                                               "name":  "bukmeker bez verki",
+                                               "nameEn":  "bukmeker bez verki"
+                                           },
+                                           {
+                                               "slug":  "bukmeker-bez-kyc",
+                                               "name":  "bukmeker bez KYC",
+                                               "nameEn":  "bukmeker bez KYC"
+                                           },
+                                           {
+                                               "slug":  "bukmeker-bez-dokumentov",
+                                               "name":  "bukmeker bez dokumentov",
+                                               "nameEn":  "bukmeker bez dokumentov"
+                                           }
+                                       ],
+    "sportsbook without verification":  [
+                                            {
+                                                "slug":  "sportsbook-without-verification",
+                                                "name":  "sportsbook without verification",
+                                                "nameEn":  "sportsbook without verification"
+                                            },
+                                            {
+                                                "slug":  "sportsbook-no-verification",
+                                                "name":  "sportsbook without verification",
+                                                "nameEn":  "sportsbook without verification"
+                                            },
+                                            {
+                                                "slug":  "sportbuk-bez-verifikacii",
+                                                "name":  "sportbuk bez verifikacii",
+                                                "nameEn":  "sportbuk bez verifikacii"
+                                            },
+                                            {
+                                                "slug":  "stavki-na-sport-bez-verifikacii",
+                                                "name":  "stavki na sport bez verifikacii",
+                                                "nameEn":  "stavki na sport bez verifikacii"
+                                            },
+                                            {
+                                                "slug":  "stavki-bez-kyc",
+                                                "name":  "stavki bez KYC",
+                                                "nameEn":  "stavki bez KYC"
+                      }
+                  ]
+}
