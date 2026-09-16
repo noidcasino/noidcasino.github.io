@@ -935,7 +935,9 @@ h1,
 
 /* ot-ziv.com comments embed */
 .nc-oz-box {
-  margin: 8px var(--pad) 24px;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 8px 0 24px;
   padding: 16px 18px 18px;
   border: 1px solid var(--line);
   border-radius: 14px;
