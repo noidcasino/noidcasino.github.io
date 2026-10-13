@@ -1,1 +1,51 @@
-const CACHE_NAME="my-cache-v3",urlsToCache=["/styles.min.css","/script.js","/tags.js","/tags.json","/favicon.ico","/favicon.svg","/icon/logo192.png","/icon/logo512.png"];function isLicenseRequest(n){try{const e=new URL(n),t=e.hostname;if(-1!==t.indexOf("anjcdn.org"))return!0;if(-1!==t.indexOf("anjouangamingboard.org"))return!0;if(-1!==e.pathname.indexOf("sealassets"))return!0;if(-1!==e.pathname.indexOf("anj-seal"))return!0}catch(n){}return!1}function isHtmlRequest(n){if("navigate"===n.mode)return!0;if(-1!==(n.headers.get("accept")||"").indexOf("text/html"))return!0;try{const e=new URL(n.url).pathname;if("/"===e||"/index.html"===e)return!0}catch(n){}return!1}self.addEventListener("install",(function(n){n.waitUntil(caches.open(CACHE_NAME).then((function(n){return n.addAll(urlsToCache)})).then((function(){return self.skipWaiting()})))})),self.addEventListener("activate",(function(n){n.waitUntil(caches.keys().then((function(n){return Promise.all(n.filter((function(n){return n!==CACHE_NAME})).map((function(n){return caches.delete(n)})))})).then((function(){return self.clients.claim()})))})),self.addEventListener("fetch",(function(n){const e=n.request;"GET"===e.method&&(isLicenseRequest(e.url)?n.respondWith(fetch(e,{cache:"no-store"}).catch((function(){return fetch(e)}))):isHtmlRequest(e)?n.respondWith(fetch(e,{cache:"no-store"}).then((function(n){return n})).catch((function(){return caches.match(e).then((function(n){return n||caches.match("/index.html")}))}))):n.respondWith(caches.match(e).then((function(n){return n||fetch(e).then((function(n){try{if(new URL(e.url).origin===self.location.origin&&n&&n.ok&&"basic"===n.type){const t=n.clone();caches.open(CACHE_NAME).then((function(n){n.put(e,t)}))}}catch(n){}return n}))}))))}));
+const CACHE_NAME = "nc-cache-v1";
+const urlsToCache = [
+  "./",
+  "./index.html",
+  "./favicon.ico",
+  "./css/index.css",
+  "./tags.js",
+  "./i18n.js",
+  "./tag-i18n.js",
+  "./clock.js",
+  "./lang.js",
+  "./play-cta.js",
+  "./i/site.webmanifest"
+];
+
+self.addEventListener("install", (event) => {
+  event.waitUntil(
+    caches.open(CACHE_NAME).then((cache) =>
+      Promise.all(
+        urlsToCache.map((url) => cache.add(url).catch(() => undefined))
+      )
+    ).then(() => self.skipWaiting())
+  );
+});
+
+self.addEventListener("activate", (event) => {
+  event.waitUntil(
+    caches.keys().then((keys) =>
+      Promise.all(keys.filter((k) => k !== CACHE_NAME).map((k) => caches.delete(k)))
+    ).then(() => self.clients.claim())
+  );
+});
+
+self.addEventListener("fetch", (event) => {
+  const req = event.request;
+  if (req.method !== "GET") return;
+  event.respondWith(
+    caches.match(req).then((cached) => {
+      if (cached) return cached;
+      return fetch(req).then((res) => {
+        try {
+          if (new URL(req.url).origin === self.location.origin && res && res.ok && res.type === "basic") {
+            const copy = res.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(req, copy));
+          }
+        } catch (_) {}
+        return res;
+      });
+    })
+  );
+});
